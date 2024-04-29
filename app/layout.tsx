@@ -26,8 +26,7 @@ export default function RootLayout({
       <ClerkProvider
         appearance={{
           layout: {
-            socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/sphere-wave.svg",
+            socialButtonsVariant: "iconButton"
           },
           variables: {
             colorText: "#fff",
